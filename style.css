@@ -109,7 +109,7 @@ body{
     resize: none;
     border: none;
     border-radius: 2em;
-    background-image: url(/IMAGENES/Muñeco.png);
+    background-image: url(./Muñeco.png);
     background-color: rgba(231, 240, 240, 0.664);
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
     background-repeat: no-repeat;
@@ -235,7 +235,7 @@ body{
     }
     
     .txtEncriptado{
-        background-image: url(/IMAGENES/Muñeco.png);
+        background-image: url(./Muñeco.png);
         background-size: 30%;
         background-position-x: 90%;
         background-position-y: 45%;
